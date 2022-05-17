@@ -4,6 +4,7 @@ platform :ios, '9.0'
 
 target 'ZDSCommonUIModule_Example' do
   pod 'ZDSCommonUIModule', :path => '../'
+#  pod 'ZDSCategoryModule', :path => '../../ZDSCategoryModule'
 
   target 'ZDSCommonUIModule_Tests' do
     inherit! :search_paths

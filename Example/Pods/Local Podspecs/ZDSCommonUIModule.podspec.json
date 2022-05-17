@@ -1,0 +1,27 @@
+{
+  "name": "ZDSCommonUIModule",
+  "version": "0.1.0",
+  "summary": "ZDSCommonUIModule 库",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/InSeekFame/ZDSCommonUIModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "InSeekFame": "cl18083620407@163.com"
+  },
+  "source": {
+    "git": "https://github.com/InSeekFame/ZDSCommonUIModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZDSCommonUIModule/Classes/**/*",
+  "resource_bundles": {
+    "ZDSCommonUIModule": [
+      "ZDSCommonUIModule/Assets/*"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - ZDSCommonUIModule (0.1.0)
+
+DEPENDENCIES:
+  - ZDSCommonUIModule (from `../`)
+
+EXTERNAL SOURCES:
+  ZDSCommonUIModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZDSCommonUIModule: 8415a1da1b87fd986ba31f76e79fb8f2cbfdfc6e
+
+PODFILE CHECKSUM: c5e48da94e99030879097a972be6f9df326fb6d8
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,6 @@
+framework module Pods_ZDSCommonUIModule_Tests {
+  umbrella header "Pods-ZDSCommonUIModule_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

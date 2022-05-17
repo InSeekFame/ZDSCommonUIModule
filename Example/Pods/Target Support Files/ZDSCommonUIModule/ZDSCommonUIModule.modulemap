@@ -1,0 +1,6 @@
+framework module ZDSCommonUIModule {
+  umbrella header "ZDSCommonUIModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
