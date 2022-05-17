@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZDSCommonUIModule' # 名称
-  s.version          = '0.1.0' # 版本号
+  s.version          = '0.0.2' # 版本号
   s.summary          = 'ZDSCommonUIModule 库' # 简介
 
 # This description is used to generate tags and improve search results.
